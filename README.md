@@ -1,5 +1,7 @@
 # irc-cheatsheet
 
+Reference: https://meta.wikimedia.org/wiki/IRC/Instructions#New_channel_setup
+
 ```
 /msg chanserv register #channel
 /msg chanserv set #channel guard on
